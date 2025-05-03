@@ -172,13 +172,6 @@ Include screenshots of:
 * EC2 instances list in AWS Console
    ![Screenshot 2025-05-03 114501](https://github.com/user-attachments/assets/bac50f4a-9688-4313-96fa-cb2aeed00958)
 
-* SSH into each instance
-* Running `node` or `npm start` commands
-* Jenkins pipeline execution
-* Application running in browser
-
-
-
 ---
 
 ## Troubleshooting
